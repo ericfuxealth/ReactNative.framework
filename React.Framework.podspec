@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'React.Framework'
   s.module_name  = 'React'
-  s.version      = "0.27.2"
+  s.version      = "0.34.1"
   s.summary      = "a built framework from react native source"
   s.description  = "a built framework from react native source."
 
