@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
 
   s.source = { :git => "https://github.com/ericfuxealth/ReactNative.framework", :tag => "#{s.version}" }
   s.vendored_frameworks = "React.framework"
+  s.dependency "Yoga", "#{s.version}.React"
 end
